@@ -14,7 +14,7 @@ This lab consists of going through the steps of creating an Active Directory hom
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b> (21H2)
-- <b>Servier 2019</b> 
+- <b>Server 2019</b> 
 
 <h2>Lab Screenshots</h2>
 
